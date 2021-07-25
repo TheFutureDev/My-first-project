@@ -1,0 +1,53 @@
+h1{
+  background-color:#6495ED;
+  font-family: 'Courgette', cursive;
+  width:250px;
+  padding:10px;
+  color:white;
+}
+p{
+ font-family: 'Acme', sans-serif;
+ font-size:34px;
+ text-allign:left;
+ background-color:#1affff;
+}
+.PICTURE{
+  background-color:#87CEFA;
+  font-family: 'Courgette', cursive;
+  width:700px;
+  padding:10px;
+  color:BLACK;
+}
+H2{
+ background-color:#00BFFF;
+  font-family: 'Courgette', cursive;
+  width:250px;
+  padding:10px;
+  color:white;
+}
+
+table{
+
+ width:85%;
+font-family: 'courgette', papyrus;
+color:black;
+font-weight:20px;
+text-align:center;
+font-size:35px;
+
+}
+th{
+font-family: 'Zen Loop', cursive;;
+font-weight:25px;
+font-size:40px;
+background-color:#1E90FF;
+padding:2px;
+margin:24%;
+}
+img{
+width:55%;
+height:45%;
+}
+
+
+
